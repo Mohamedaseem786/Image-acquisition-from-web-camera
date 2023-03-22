@@ -29,8 +29,8 @@ Rotate the image using cv2.rotate(smaller_frame,cv2.cv2.ROTATE_180).
 
 ## Program:
 ``` Python
-### Developed By: Pranave B
-### Register No: 212221240040
+### Developed By: mohamed aseem p
+### Register No: 212221230063
 
 ## i) Write the frame as JPG file
 
@@ -118,7 +118,7 @@ cv2.destroyAllWindows()
 ### i) Write the frame as JPG image
 </br>
 
-![](NewPicture.jpg)
+![](d1.jpg)
 
 </br>
 
@@ -126,14 +126,14 @@ cv2.destroyAllWindows()
 ### ii) Display the video
 </br>
 
-![](Car2.jpg)
+![](d2.jpg)
 </br>
 
 
 ### iii) Display the video by resizing the window
 </br>
 
-![](Car3.jpg)
+![](d3.jpg)
 </br>
 
 
@@ -141,7 +141,7 @@ cv2.destroyAllWindows()
 ### iv) Rotate and display the video
 </br>
 
-![](bat4.jpg)
+![](d4.jpg)
 
 </br>
 
